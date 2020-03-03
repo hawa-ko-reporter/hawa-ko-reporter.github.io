@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
+## Our Timeline
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="955" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=bed080b8-5d34-11ea-b9b8-0edaf8f81e27"></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1gy1BqX5g43CTuPIbmhw3q5HonAKfejd3NuSnXTdneRU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
