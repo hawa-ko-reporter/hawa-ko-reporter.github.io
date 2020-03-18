@@ -1,4 +1,4 @@
-# Experimenting a civic engagment platform using chat-bots
+
 ## What is hawa-ko-reporter?
 > hawa-ko-reporter is a messaging tool that engages people on emergence of air pollution and how to respond to it going forward.
 
